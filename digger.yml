@@ -1,0 +1,5 @@
+projects:
+- name: dev
+  dir: infra/dev
+- name: staging
+  dir: infra/staging
